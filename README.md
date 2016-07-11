@@ -1,2 +1,2 @@
 # Hua-Zhang.github.io
-张华NLP的个人博客
+张华的个人博客
