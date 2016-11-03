@@ -1,2 +1,2 @@
 # Hua-Zhang.github.io
-zhanghua's blog
+ZhangHua's blog
