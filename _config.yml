@@ -1,7 +1,7 @@
 title: 自然语言处理爱好者
 description: 张华的个人博客
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
