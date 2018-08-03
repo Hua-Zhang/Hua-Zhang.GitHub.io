@@ -1,5 +1,5 @@
 # Site settings
-title: ZhangHua Blog
+title: ZhangHua's Blog
 SEOTitle: 自然语言处理爱好者
 header-img: img/home-bg.jpg
 email: zhanghuanlp@gmail.com
@@ -85,16 +85,7 @@ friends: [
         title: "zhanghua",
         href: "https://hua-zhang.github.io"
     },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
         title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
         href: "#"
     }
 ]
