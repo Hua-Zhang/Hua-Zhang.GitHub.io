@@ -1,5 +1,5 @@
 # Site settings
-title: ZhangHua's Blog
+title: 自然语言处理爱好者
 SEOTitle: 自然语言处理爱好者
 header-img: img/home-bg.jpg
 email: zhanghua1@gmail.com
@@ -53,7 +53,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -65,15 +65,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-zhanghua.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
