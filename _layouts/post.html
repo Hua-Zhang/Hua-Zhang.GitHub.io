@@ -41,6 +41,7 @@ layout: default
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
                     <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    浏览量：<span data-hk-page="current"> - </span>次<span class="pause"> | </span>
                 </div>
             </div>
         </div>
@@ -232,3 +233,6 @@ layout: default
     }
 </style>
 {% endif %}
+
+<!-- 开源的访问量计数器 -->
+<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-0.1.1.js"></script>
